@@ -34,7 +34,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Why do we need super() in an extended class?
 
-### Task 1 - Project Set up
+<!-- ### Task 1 - Project Set up
 
 Follow these steps to set up and work on your project:
 Make sure you clone the branch that the TK links to: the vnext branch, NOT master!
@@ -47,7 +47,7 @@ Make sure you clone the branch that the TK links to: the vnext branch, NOT maste
 - [ ] You are now ready to build this project with your preferred IDE
 - [ ] Implement the project on your Branch, committing changes regularly.
 - [ ] Push commits: git push origin `<firstName-lastName>`.
-
+ -->
 
 
 ### Task 2 - Minimum Viable Product
@@ -60,7 +60,7 @@ Your finished project must include all of the following requirements:
 
 Test your knowledge of advanced array methods and callbacks.
 * [ ] Use the [arrays-callbacks.js](challenges/arrays-callbacks.js) link to get started.  Read the instructions carefully!
-
+<!-- 
 #### Task B: Closure
 
 This challenge takes a look at closures as well as scope. 
@@ -69,12 +69,12 @@ This challenge takes a look at closures as well as scope.
 #### Task C: Prototypes
 
 Create constructors, bind methods, and create cuboids in this prototypes challenge.
-* [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully!
+* [ ] Use the [prototypes.js](challenges/prototypes.js) link to get started. Read the instructions carefully! -->
 
-#### Task D: Classes
+<!-- #### Task D: Classes
 
 Once you have completed the prototypes challenge, it's time to convert all your hard work into classes.
-* [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully!
+* [ ] Use the [classes.js](challenges/classes.js) link to get started. Read the instructions carefully! -->
 
 In your solutions, it is essential that you follow best practices and produce clean and professional results. Schedule time to review, refine, and assess your work and perform basic professional polishing including spell-checking and grammar-checking on your work. It is better to submit a challenge that meets MVP than one that attempts too much and does not.
 

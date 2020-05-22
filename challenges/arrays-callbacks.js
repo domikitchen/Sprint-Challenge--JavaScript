@@ -21,6 +21,8 @@ The zoos want to display both the scientific name and the animal name in front o
 
 */
 const displayNames = [];
+
+
 console.log(displayNames);
 
 /* Request 2: .map()
